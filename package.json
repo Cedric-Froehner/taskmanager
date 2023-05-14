@@ -1,0 +1,15 @@
+{
+  "name": "taskmanager",
+  "version": "0.0.1",
+  "description": "A simple tool to manage your tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"install": "node install.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
